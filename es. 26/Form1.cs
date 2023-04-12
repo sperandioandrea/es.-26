@@ -63,5 +63,11 @@ namespace es._26
         {
 
         }
+
+        //cancellazione
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
